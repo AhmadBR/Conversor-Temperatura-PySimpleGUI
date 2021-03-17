@@ -36,7 +36,7 @@ def janela():
                 window['res'].update("ERRO!!")
                 window['b1'].update("ERRO!!")
                 window['b2'].update("ERRO!!")
-                window['titul'].update(f'Erro!! Digite tipo da temperatura Ex: 10c, 4f ,8k', text_color='red', visible=True)
+                window['titul'].update(f'Erro!! Digite a escala da temperatura Ex: 10c, 4f ,8k', text_color='red', visible=True)
         if event == sg.WIN_CLOSED or event == 'Sair':
             return "FIM"
     window.close(); del window
