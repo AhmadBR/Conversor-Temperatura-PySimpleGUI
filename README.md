@@ -18,3 +18,4 @@ __obs.__ se o usuário digita uma escala não existente ou não há especifica u
 
 ### Figura 4
 ![Figura4](https://user-images.githubusercontent.com/41305497/111408775-28af3500-86ac-11eb-86b6-73020d975b36.JPG)
+
