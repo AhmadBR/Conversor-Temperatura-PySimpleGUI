@@ -80,7 +80,7 @@ def CpraT(x, c):
         return f"Fahrenheit é {round(r, 1)}ºF"
     else:
         r = c + 273
-        return f"Kelvim é {round(r, 1)}ºK"
+        return f"Kelvin é {round(r, 1)}ºK"
 
 
 def FpraT(x, c):
@@ -90,7 +90,7 @@ def FpraT(x, c):
         return f"Celsius é {round(r, 1)}ºC"
     else:
         r = ((c - 32) * (5 / 9)) + 273.15
-        return f"Kelvim é {round(r, 1)}ºK"
+        return f"Kelvin é {round(r, 1)}ºK"
 
 
 def KpraT(x, c):
